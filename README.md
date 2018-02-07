@@ -1,6 +1,6 @@
 # Project 1
 + By: *Mamdouh Alharbi*
-+ Production URL: <http://p1.yourdomain.com>
++ Production URL: <http://174.138.1.43/p1/>
 
 ## Notes for instructor
 *The random quote is working properly on my local machine but doesn't work on the server*
