@@ -1,0 +1,19 @@
+h1{
+	text-align:center;
+}
+
+p{
+	 display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 100px;
+    -webkit-margin-end: 100px
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+	height: 50%;
+}
