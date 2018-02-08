@@ -1,10 +1,7 @@
 # Project 1
 + By: *Mamdouh Alharbi*
-+ Production URL: <http://p1.yourdomain.com>
-
-## Outside resources
-*your list of outside resources go here*
-
++ Production URL: <http://174.138.1.43/p1/>
 
 ## Notes for instructor
-*any notes for me to refer to while grading; if none, omit this section*
+*The random quote is working properly on my local machine but doesn't work on the server*
+*I tried to book a domain using namecheap.com but I was unable to register due to some security issues. I emailed them and waiting for their replay*
