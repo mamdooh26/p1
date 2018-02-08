@@ -7,9 +7,7 @@
 	</head>
 	<body>
 		<h1> Mamdouh Alharbi</h1>
-		<p style="text-align:center;">
-			<img src="images/Mamdouh.jpg" alt="Mamdouh Photo" width = 200 height = 300 />
-		</p>
+		<img src="images/Mamdouh.jpg" alt="Mamdouh Photo" width = 200 height = 300 />
 		<br/>
 		<h1> About Me</h1>
 		<p>
