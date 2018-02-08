@@ -19,7 +19,7 @@
 			$quotes[] = 'Whatever the mind of man can conceive and believe, it can achieve. –Napoleon Hill';
 			$quotes[] = 'Strive not to be a success, but rather to be of value. –Albert Einstein';
 			$random_number = rand(0,2);
-			?><p><?echo ($quotes[$random_number]);?></p><?
+			?><p><?php echo ($quotes[$random_number]);?></p><?
 		?>
 	</body>
 </html>
